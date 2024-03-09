@@ -44,3 +44,12 @@ $("#name").append(' (MBBS) , Dhaka')
 // Prepend a thing ( add something at the start of the element just like append but its for front side)
 
 $("#name").prepend("Dr. ")
+
+
+
+// jquery mathod ( Before  and After )
+
+
+
+
+
