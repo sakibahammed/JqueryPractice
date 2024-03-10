@@ -24,7 +24,7 @@ $('a').attr('href')
 //jquery
 
 $('a').attr('href','https://www.facebook.com/')
-
+console.log('hello world');
 
 //js
 
