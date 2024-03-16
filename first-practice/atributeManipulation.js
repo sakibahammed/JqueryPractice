@@ -28,4 +28,6 @@ console.log('hello world');
 
 //js
 
-document.querySelector('a').setAttribute('href','https://www.youtube.com/watch?v=eosp4QAbu-U&list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB&index=4');
+// document.querySelector('a').setAttribute('href','https://www.youtube.com/watch?v=eosp4QAbu-U&list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB&index=4');
+
+
