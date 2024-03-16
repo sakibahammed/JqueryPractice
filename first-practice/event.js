@@ -25,3 +25,21 @@ $("#btn").click(function(){
     $("h1").toggleClass("color")
 })
 
+
+
+// add event listener in multiple element
+
+// $(".mybtn").click(function(){
+//     var value = this.innerHTML;
+//     // $("h1").text(value + "is clicked")
+
+// })
+
+
+// another way to add event listener
+
+
+$(".mybtn").on("click",function(){
+    var value = this.innerHTML;
+    $("h1").text(value);
+})
