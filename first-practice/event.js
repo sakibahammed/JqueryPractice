@@ -43,3 +43,7 @@ $(".mybtn").on("click",function(){
     var value = this.innerHTML;
     $("h1").text(value);
 })
+
+
+
+console.log('Jquery');
